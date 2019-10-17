@@ -29,5 +29,5 @@
 ## Next
 
 Tutorials can be found in each sub-folder's README.md. Currently available:
-* [Basics](https://github.com/PinkProgramming/java-testing-intro/tree/master/src/test/java/org.pinkprogramming.javatesting/Basics/)
-* [Website Tests](https://github.com/PinkProgramming/java-testing-intro/tree/master/src/test/java/org.pinkprogramming.javatesting/WebsiteTests/)
+* [Basics](src/test/java/org/pinkprogramming/javatesting/Basics/)
+* [Website Tests](src/test/java/org/pinkprogramming/javatesting/WebsiteTests/)
