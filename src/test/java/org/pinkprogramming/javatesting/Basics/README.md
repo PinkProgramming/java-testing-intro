@@ -23,12 +23,21 @@ Create a named test with a function (JS) method (Java)
  - JS: For a list of common matchers, refer to [Jest Documentation](https://jestjs.io/docs/en/using-matchers)
  - Java: For a list of assertions, refer to [JUnit Examples](https://howtodoinjava.com/junit5/junit-5-assertions-examples/)
 
+**Step 3**. Create a test to verify if a vehicle is affordable.
+
+
 ### Test 2. String comparisons
 
-_TODO: Verify type is string (JS)_
-_TODO: Use helper instead of operator comparison (Java & JS)_
-_TODO: How to find a particular word, key or similar_
+* Create a test to verify if a sentence ends with a period. 
 
 ### Test 3. Introduce array (for strings)
 
-_TODO: Structuring a test for dynamic number of test cases_
+Create a new Java test class. 
+
+Declare a list of String with Swedish greetings.
+
+Create some tests to verify:
+* If the list contains common Swedish greetings
+* If the list does not contain English greeting
+* If the list does not contain goodbye greeting
+
