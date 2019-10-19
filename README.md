@@ -26,8 +26,11 @@
 2. Right/Ctrl-click on it and select `▶ Run ...`
 3. See the test-runner pop up, showing your ✔ Test Results.
 
-## Next
+## Exercises
 
-Tutorials can be found in each sub-folder's README.md. Currently available:
 * [Basics](src/test/java/org/pinkprogramming/javatesting/Basics/)
 * [Website Tests](src/test/java/org/pinkprogramming/javatesting/WebsiteTests/)
+
+## Solutions
+
+[solutions branch](../../tree/solutions)/tree/solutions
